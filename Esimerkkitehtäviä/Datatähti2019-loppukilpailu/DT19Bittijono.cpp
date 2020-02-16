@@ -1,4 +1,6 @@
 /*
+LINKKI TEHTÄVÄNANTOON: https://cses.fi/228/task/B/
+
 Kysymys "Kuinka monessa yhtenäisessä bittijonon osajonossa on parillinen määrä ykkösbittejä?"
 on yhtäpitävä kysymyksen
 "Kuinka monta parillisen summan alitaulukkoa on bittijonosta muodostuvassa taulukossa?" kanssa.
