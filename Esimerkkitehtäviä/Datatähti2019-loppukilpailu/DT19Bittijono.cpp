@@ -1,7 +1,7 @@
 /*
 Kysymys "Kuinka monessa yhtenäisessä bittijonon osajonossa on parillinen määrä ykkösbittejä?"
 on yhtäpitävä kysymyksen
-"Kuinka monta parillisen summan alitaulukkoa on bittijonosta muodostuvassa taulukossa?".
+"Kuinka monta parillisen summan alitaulukkoa on bittijonosta muodostuvassa taulukossa?" kanssa.
 Tämä johtuu siitä, että ykkösbittien määrä alitaulukossa on sama kuin alitaulukon summa.
 
 Tehtävää voi lähteä ratkaisemaan täydellisellä haulla kolmella tai kahdella loopilla,
